@@ -1,0 +1,375 @@
+----PALABRAS ALMACENADAS ORDENADAS ALFABETICAMENTE----
+a
+ab
+accusamus
+accusantium
+ad
+adipisci
+alias
+aliquam
+aliquid
+amet
+animi
+aperiam
+architecto
+asperiores
+aspernatur
+assumenda
+at
+atque
+aut
+autem
+beatae
+blanditiis
+commodi
+consectetur
+consequatur
+consequuntur
+corporis
+corrupti
+culpa
+cum
+cumque
+cupiditate
+debitis
+delectus
+deleniti
+deserunt
+dicta
+dignissimos
+distinctio
+dolor
+dolore
+dolorem
+doloremque
+dolores
+doloribus
+dolorum
+ducimus
+ea
+eaque
+earum
+eius
+eligendi
+enim
+eos
+error
+esse
+est
+et
+eum
+eveniet
+ex
+excepturi
+exercitationem
+expedita
+explicabo
+facere
+facilis
+fuga
+fugiat
+fugit
+harum
+hic
+id
+illo
+illum
+impedit
+in
+incidunt
+inventore
+ipsa
+ipsam
+ipsum
+iste
+itaque
+iure
+iusto
+labore
+laboriosam
+laborum
+laudantium
+libero
+magnam
+magni
+maiores
+maxime
+minima
+minus
+modi
+molestiae
+molestias
+mollitia
+nam
+natus
+necessitatibus
+nemo
+neque
+nesciunt
+nihil
+nisi
+nobis
+non
+nostrum
+nulla
+numquam
+occaecati
+odio
+odit
+officia
+officiis
+omnis
+optio
+pariatur
+perferendis
+perspiciatis
+placeat
+porro
+possimus
+praesentium
+provident
+quae
+quaerat
+quam
+quas
+quasi
+qui
+quia
+quibusdam
+quidem
+quis
+quisquam
+quo
+quod
+quos
+ratione
+recusandae
+reiciendis
+rem
+repellat
+repellendus
+reprehenderit
+repudiandae
+rerum
+saepe
+sapiente
+sed
+sequi
+similique
+sint
+sit
+soluta
+sunt
+suscipit
+tempora
+tempore
+temporibus
+tenetur
+totam
+ullam
+unde
+ut
+vel
+velit
+veniam
+veritatis
+vero
+vitae
+voluptas
+voluptate
+voluptatem
+voluptates
+voluptatibus
+voluptatum
+
+----PALABRAS ALMACENADAS ORDENADAS POR CANTIDAD DE REPETICIONES----
+
+      PALABRA       |   CANTIDAD DE REPETICIONES
+----------------------------------------------------
+
+et                  |21             
+ut                  |12             
+qui                 |11             
+aut                 |11             
+est                 |9              
+quia                |7              
+voluptatem          |7              
+sed                 |6              
+rerum               |5              
+omnis               |5              
+non                 |5              
+sit                 |5              
+consequatur         |5              
+voluptas            |5              
+ea                  |3              
+sint                |3              
+dolorem             |3              
+nihil               |3              
+dolores             |3              
+id                  |3              
+in                  |3              
+eum                 |3              
+dolor               |3              
+molestiae           |3              
+enim                |3              
+eos                 |3              
+sunt                |3              
+quo                 |3              
+quis                |3              
+autem               |3              
+velit               |3              
+voluptates          |1              
+porro               |1              
+nemo                |1              
+officia             |1              
+placeat             |1              
+provident           |1              
+optio               |1              
+voluptate           |1              
+vel                 |3              
+neque               |1              
+perferendis         |1              
+vitae               |1              
+recusandae          |1              
+possimus            |1              
+necessitatibus      |1              
+odit                |1              
+perspiciatis        |1              
+praesentium         |1              
+pariatur            |1              
+nam                 |1              
+odio                |1              
+nulla               |1              
+mollitia            |1              
+occaecati           |1              
+voluptatum          |1              
+molestias           |1              
+nesciunt            |1              
+rem                 |1              
+nostrum             |1              
+natus               |1              
+officiis            |1              
+voluptatibus        |1              
+nobis               |1              
+repellat            |1              
+tempora             |1              
+nisi                |1              
+quae                |1              
+tempore             |1              
+similique           |1              
+reprehenderit       |1              
+repellendus         |1              
+reiciendis          |1              
+sapiente            |1              
+repudiandae         |1              
+soluta              |1              
+suscipit            |1              
+quasi               |1              
+ratione             |1              
+veritatis           |1              
+quos                |1              
+saepe               |1              
+quaerat             |1              
+quam                |1              
+veniam              |1              
+vero                |1              
+sequi               |1              
+quas                |1              
+temporibus          |1              
+quod                |1              
+quidem              |1              
+tenetur             |1              
+ullam               |1              
+totam               |1              
+quisquam            |1              
+unde                |1              
+cumque              |1              
+consequuntur        |1              
+cum                 |1              
+quibusdam           |1              
+debitis             |1              
+cupiditate          |1              
+culpa               |1              
+corrupti            |1              
+corporis            |1              
+delectus            |1              
+numquam             |1              
+ducimus             |1              
+distinctio          |1              
+dolorum             |1              
+doloribus           |1              
+dicta               |1              
+dolore              |1              
+doloremque          |1              
+dignissimos         |1              
+adipisci            |1              
+aliquam             |1              
+alias               |1              
+itaque              |1              
+commodi             |1              
+ad                  |1              
+a                   |1              
+consectetur         |1              
+aliquid             |1              
+deserunt            |1              
+amet                |1              
+atque               |1              
+at                  |1              
+accusamus           |1              
+beatae              |1              
+assumenda           |1              
+blanditiis          |1              
+animi               |1              
+iure                |1              
+aspernatur          |1              
+accusantium         |1              
+ab                  |1              
+asperiores          |1              
+architecto          |1              
+iusto               |1              
+labore              |1              
+aperiam             |1              
+eaque               |1              
+iste                |1              
+expedita            |1              
+ipsum               |1              
+minus               |1              
+ipsam               |1              
+ipsa                |1              
+modi                |1              
+laboriosam          |1              
+inventore           |1              
+incidunt            |1              
+ex                  |1              
+libero              |1              
+laudantium          |1              
+deleniti            |1              
+laborum             |1              
+excepturi           |1              
+magnam              |1              
+maiores             |1              
+magni               |1              
+minima              |1              
+maxime              |1              
+eius                |1              
+hic                 |1              
+illo                |1              
+earum               |1              
+explicabo           |1              
+eligendi            |1              
+esse                |1              
+error               |1              
+fuga                |1              
+harum               |1              
+eveniet             |1              
+exercitationem      |1              
+facere              |1              
+illum               |1              
+fugit               |1              
+fugiat              |1              
+impedit             |1              
+facilis             |1              
+
+COMPARACIONES POR INSERCION: 8527
+COMPARACIONES ARBOL BINARIO: 1466
+COMPARACIONES QUICK SORT: 501
